@@ -1,0 +1,1 @@
+# [ERTP](https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP) Airdrop Campaign
